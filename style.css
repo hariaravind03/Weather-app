@@ -227,6 +227,7 @@ body{
         height: 150px;
         display: grid;
         grid-row: auto;
+visibility:invisible;
     }
 
     .box .notfound{
